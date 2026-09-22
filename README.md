@@ -1,4 +1,8 @@
 # Rock Paper Scissors Web Game 🎮
+[![JavaScript](https://img.shields.io/badge/Language-JavaScript%20(ES6%2B)-yellow?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML5](https://img.shields.io/badge/Frontend-HTML5-orange?style=flat&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/Styling-CSS3-blue?style=flat&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Live Demo](https://img.shields.io/badge/Demo-GitHub%20Pages-brightgreen?style=flat&logo=github)](https://besmirkodra.github.io/rock-paper-scissors/)
 
 A clean, interactive Rock Paper Scissors browser game built from scratch using vanilla JavaScript, HTML5, and CSS3. Features persistent score tracking, keyboard shortcuts, and an automated continuous play mode.
 
